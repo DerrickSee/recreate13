@@ -275,7 +275,7 @@ a:visited {
 	background-attachment: fixed;
 	width:100%;
 	position: relative;
-	padding:150px 0;
+	padding:50px 0 80px 0;
 }
 
 #decorative {
@@ -304,11 +304,18 @@ a:visited {
 }
 #slide3 h2 {
 	line-height: 1em;
+	padding-bottom:10px;
 }
 #slide4 h1 {
 	line-height: 1em;
 }
 #slide4 h2 {
+	line-height: 1em;
+}
+#slide5 h1 {
+	line-height: 1em;
+}
+#slide5 h2 {
 	line-height: 1em;
 }
 
@@ -341,13 +348,18 @@ a:visited {
 .navigation li{
 	float: left;
 	width:25%;
+	font-size:12px;
 }
 
 .slide{
 	background-attachment: fixed;
 	width:100%;
 	position: relative;
-	padding:150px 0;
+	padding:20px 0;
+}
+
+#content h1{
+	margin-top:10px;
 }
 
 
@@ -365,9 +377,14 @@ a:visited {
 }
 #slide3 h1 {
 	line-height: 1em;
+	margin-bottom:10px;
 }
 #slide3 h2 {
 	line-height: 1em;
+	padding-bottom:5px;
+}
+#slide3 h3 {
+	margin-top:0;
 }
 #slide4 h1 {
 	line-height: 1em;
@@ -375,7 +392,14 @@ a:visited {
 #slide4 h2 {
 	line-height: 1em;
 }
-
+#slide5 h1 {
+	line-height: 1em;
+	margin-bottom: 0;
+}
+#slide5 h2 {
+	line-height: 1em;
+	padding-bottom: 5px;
+}
 
 }
 
